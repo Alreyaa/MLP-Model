@@ -1,4 +1,4 @@
-## MLP
+## Multi-Layer Perceptron
 
 A Multi-Layer Perceptron (MLP) is a class of feedforward artificial neural network. It consists of at least three layers of nodes: an input layer, one or more hidden layers, and an output layer. MLPs are capable of learning complex nonlinear functions and are widely used in supervised learning problems.
 
